@@ -1,0 +1,12 @@
+# Fichiers objets
+*.o
+
+# Exécutables
+ChaineMain
+ReconstitueReseau
+main
+PerformanceTest
+ReorganiseReseau
+
+# Fichiers système
+.DS_Store

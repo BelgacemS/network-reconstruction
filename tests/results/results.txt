@@ -1,0 +1,17 @@
+Structure : Liste chainee
+Temps d'execution : 2.189680 secondes
+
+Structure : Table de hachage
+Taille 500 Temps d'execution : 2.264528 secondes
+Taille 1000 Temps d'execution : 2.670846 secondes
+Taille 1500 Temps d'execution : 2.690856 secondes
+Taille 2000 Temps d'execution : 2.776010 secondes
+Taille 2500 Temps d'execution : 2.846679 secondes
+Taille 3000 Temps d'execution : 2.824087 secondes
+Taille 3500 Temps d'execution : 2.722156 secondes
+Taille 4000 Temps d'execution : 2.369712 secondes
+Taille 4500 Temps d'execution : 2.695588 secondes
+Taille 5000 Temps d'execution : 2.512592 secondes
+
+Structure : Arbre quaternaire
+Temps d'execution : 0.029049 secondes
